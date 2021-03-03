@@ -1,0 +1,11 @@
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\bin\Debug\GUIversion1.exe.config
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\bin\Debug\GUIversion1.exe
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\bin\Debug\GUIversion1.pdb
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.csprojAssemblyReference.cache
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.Form1.resources
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.Properties.Resources.resources
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.csproj.GenerateResource.cache
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.exe
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.pdb
+C:\Users\patel\source\repos\GUIversion1\GUIversion1\obj\Debug\GUIversion1.Form2.resources
